@@ -1,4 +1,4 @@
-https://github.com/Gollum959/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![status workflow](https://github.com/Gollum959/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 [**Description of the project**](#description-of-the-project)
 
