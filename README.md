@@ -1,3 +1,5 @@
+https://github.com/Gollum959/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+
 [**Description of the project**](#description-of-the-project)
 
 [**Filling the env file**](#filling-the-env-file)
