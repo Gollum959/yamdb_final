@@ -1,4 +1,7 @@
-![status workflow](https://github.com/Gollum959/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![statuspy workflow](https://github.com/Gollum959/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+[Redoc](http://51.250.44.121/redoc/)
+[Admin](http://51.250.44.121/admin/login/?next=/admin/)
 
 [**Description of the project**](#description-of-the-project)
 
@@ -80,3 +83,7 @@ Project is created with:
 * PostgreSQL
 * Django 2.2.16
 * Django REST framework 3.12.4
+* Docker version 20.10.12
+* Docker Compose version v2.11.0
+* Nginx/1.18.0 (Ubuntu)
+
