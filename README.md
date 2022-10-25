@@ -18,7 +18,7 @@
 
 The YaMDb project collects users reviews about works, divides them into categories(for example, books, films, music). A work can be assigned one or more genres. 
 A user can make one text review for the work available in the YaMDb database and rate it on a scale from one to ten. Only admin can add new works. 
-You can leave comments on review
+You can leave comments on review. JWT tokens are used for authentication.
 ### Some examples of valid API requests
 
 **Registration and authorization of a new user**
@@ -81,6 +81,7 @@ Project is created with:
 * PostgreSQL
 * Django 2.2.16
 * Django REST framework 3.12.4
+* Simple-JWT
 * Docker version 20.10.12
 * Docker Compose version v2.11.0
 * Nginx/1.18.0 (Ubuntu)
