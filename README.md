@@ -1,7 +1,5 @@
 ![statuspy workflow](https://github.com/Gollum959/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-[Redoc](http://51.250.44.121/redoc/)
-[Admin](http://51.250.44.121/admin/login/?next=/admin/)
 
 [**Description of the project**](#description-of-the-project)
 
